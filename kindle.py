@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#Pedro Henrique de Sousa Alcântara 30-05-22
  #/media/pedro/Kindle/documents/
 import sys
 from easygui import *
