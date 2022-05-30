@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
  #/media/pedro/Kindle/documents/
+#Pedro Henrique de Sousa Alcântara 30-05-22
+
 import sys
 from easygui import *
 import subprocess
