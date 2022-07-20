@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-# -*- coding: utf-8 -*-
 #Pedro Henrique de Sousa Alcântara 30-05-22
- #/media/pedro/Kindle/documents/
-import sys
-from easygui import *
-=======
-#Pedro Henrique de Sousa Alcântara 30-05-22
->>>>>>> b857ef3df7eb06dcde4d9a1cb6a366822eb59a26
 import subprocess
 import sys
 from difflib import get_close_matches
