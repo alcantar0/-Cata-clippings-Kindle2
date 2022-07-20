@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# /media/pedro/Kindle/documents/
+#Pedro Henrique de Sousa Alcântara 30-05-22
 import subprocess
 import sys
 from difflib import get_close_matches
